@@ -5,7 +5,7 @@ struct point {
 	double m_y;
 	point(double x, double y) {
 		m_x = x;
-		y = y;
+		m_y = y;
 	}
 }
 
