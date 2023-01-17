@@ -11,7 +11,7 @@ struct point {
 
 void print_point(const point& point_object);
 
-int Main()
+int main()
 {
 	int i;
 	for (i = 0; i < 5; i++); {
