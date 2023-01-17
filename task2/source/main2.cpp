@@ -1,5 +1,8 @@
 #include <iostream>
-#include "A.h"
+// ошибка линковки: не подключен заголовочный файл класса А
+
+// исправленный код
+// #include "A.h"
 
 int main(int argc, char** argv) {
 
