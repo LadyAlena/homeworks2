@@ -7,7 +7,7 @@ struct point {
 		m_x = x;
 		m_y = y;
 	}
-}
+};
 
 void print_point(const point& point_object) {
 	std::cout << "x:" << point_object.m_x << ", y: "
